@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+parsetab.py
+parser.out
+
+.idea/
+.vscode/
+
+venv/
+.venv/
